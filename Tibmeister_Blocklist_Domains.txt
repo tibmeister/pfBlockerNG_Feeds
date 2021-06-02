@@ -1,3 +1,8 @@
 googleadservices.com
 aaplimg.com
 app-measurement.com
+s0.2mdn.net
+googleads.g.doubleclick.net
+ad.doubleclick.net
+files.adform.net
+secure-ds.serving-sys.com
