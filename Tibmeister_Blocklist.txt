@@ -1,0 +1,3 @@
+googleadservices.com
+aaplimg.com
+app-measurement.com
