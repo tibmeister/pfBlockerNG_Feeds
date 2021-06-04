@@ -1,3 +1,17 @@
+#------------------------------------[UPDATE]--------------------------------------
+# Title: Tibmesiter Blocklist - Domain
+# Expires: 1 day
+# Homepage: https://github.com/tibmeister/pfBlockerNG_Feeds
+# Help: https://github.com/tibmeister/pfBlockerNG_Feeds
+# License: GNU GPLv3
+# Total number of network filters:
+#------------------------------------[SUPPORT]-------------------------------------
+# You can support by:
+# - reporting false positives by opening an issue on the Github repo
+#-------------------------------------[INFO]---------------------------------------
+#
+# Domain List
+#------------------------------------[FILTERS]-------------------------------------
 googleadservices.com
 aaplimg.com
 app-measurement.com
