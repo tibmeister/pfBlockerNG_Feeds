@@ -59,13 +59,11 @@ mopinion.com
 adskeeper.com
 iubenda.com
 photos-ugc.l.googleusercontent.com
-i.ytimg.com
 sentry-cdn.com
 hicloud.com
 digitalcollege.org
 freescanonline.com
 globalnetworkissues.com
-kubecloud.com
 lcomputers.com
 seobundlekit.com
 solartrackingsystem.net
@@ -74,4 +72,3 @@ virtualwebdata.com
 webcodez.com
 avsvmcloud.com
 deftsecurity.com
-xhamster.com
