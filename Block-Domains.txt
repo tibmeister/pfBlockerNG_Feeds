@@ -81,3 +81,10 @@ virtualwebdata.com
 webcodez.com
 avsvmcloud.com
 deftsecurity.com
+## Added 7/23/2021
+amazon-adsystem.com
+ads.facebook.com
+analytics.facebook.com
+pixel.facebook.com
+ads.linkedin.com
+analytics.pointdrive.linkedin.com
