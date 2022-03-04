@@ -1,0 +1,20 @@
+#------------------------------------[UPDATE]--------------------------------------
+# Title: Tibmesiter Allowlist - Domain
+# Expires: 1 day
+# Homepage: https://github.com/tibmeister/pfBlockerNG_Feeds
+# Help: https://github.com/tibmeister/pfBlockerNG_Feeds
+# License: GNU GPLv3
+# Total number of network filters:
+#------------------------------------[SUPPORT]-------------------------------------
+# You can support by:
+# - reporting false positives by opening an issue on the Github repo
+#-------------------------------------[INFO]---------------------------------------
+#
+# Domain List
+#------------------------------------[FILTERS]-------------------------------------
+westuscns-prod-2.trafficmanager.net
+presence.services.sfb.trafficmanager.net
+amer.ng.msg.teams-msgapi.trafficmanager.net
+api.flightproxy.teams.trafficmanager.net
+api3-cc-skype.trafficmanager.net
+worldaz.relay.teams.trafficmanager.net
