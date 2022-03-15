@@ -18,3 +18,5 @@ amer.ng.msg.teams-msgapi.trafficmanager.net
 api.flightproxy.teams.trafficmanager.net
 api3-cc-skype.trafficmanager.net
 worldaz.relay.teams.trafficmanager.net
+## VSCode Settings Sync
+vscode-sync.trafficmanager.net
