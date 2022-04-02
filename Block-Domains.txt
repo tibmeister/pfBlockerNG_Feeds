@@ -13,7 +13,6 @@
 # Domain List
 #------------------------------------[FILTERS]-------------------------------------
 googleadservices.com
-aaplimg.com
 app-measurement.com
 s0.2mdn.net
 files.adform.net
@@ -97,3 +96,5 @@ affiliationjs.s3.amazonaws.com
 stats.wp.com
 browser.sentry-cdn.com
 business.samsungusa.com
+## Removed for IOS Updates
+#aaplimg.com
