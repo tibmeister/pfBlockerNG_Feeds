@@ -18,6 +18,6 @@ amer.ng.msg.teams-msgapi.trafficmanager.net
 api.flightproxy.teams.trafficmanager.net
 api3-cc-skype.trafficmanager.net
 worldaz.relay.teams.trafficmanager.net
-## VSCode Settings Sync
-vscode-sync.trafficmanager.net
+vscode-sync.trafficmanager.net ## VSCode Settings Sync
+teamsinsight.myanalytics.cdn.office.net #Viva Insights in Teams
 mask.icloud.com ## iCloud Private Relay
