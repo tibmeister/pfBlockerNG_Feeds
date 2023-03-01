@@ -20,3 +20,4 @@ api3-cc-skype.trafficmanager.net
 worldaz.relay.teams.trafficmanager.net
 ## VSCode Settings Sync
 vscode-sync.trafficmanager.net
+mask.icloud.com ## iCloud Private Relay
