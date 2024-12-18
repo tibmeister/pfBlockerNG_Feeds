@@ -98,3 +98,5 @@ browser.sentry-cdn.com
 business.samsungusa.com
 ## Removed for IOS Updates
 #aaplimg.com
+#D3Ward Block
+d3ward.github.io
