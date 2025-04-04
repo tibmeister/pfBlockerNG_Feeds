@@ -21,3 +21,4 @@ worldaz.relay.teams.trafficmanager.net
 vscode-sync.trafficmanager.net ## VSCode Settings Sync
 teamsinsight.myanalytics.cdn.office.net #Viva Insights in Teams
 mask.icloud.com ## iCloud Private Relay
+ads-field.aylanetworks.com ## SharkIQ Vacuum
